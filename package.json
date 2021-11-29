@@ -1,0 +1,29 @@
+{
+  "name": "disposable-email-finder",
+  "version": "1.0.0",
+  "description": "Package to find disposable email addresses",
+  "main": "index",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PasinduPrabhashitha/Disposable-Email-Finder.git"
+  },
+  "keywords": [
+    "disposable",
+    "emails",
+    "authentication",
+    "react",
+    "nodejs"
+  ],
+  "author": "Pasindu Prabhashitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PasinduPrabhashitha/Disposable-Email-Finder/issues"
+  },
+  "homepage": "https://github.com/PasinduPrabhashitha/Disposable-Email-Finder#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
